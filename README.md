@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @riteshvishwakarma2004
-- 👀 I’m interested in DSA and web development 
-- 🌱 I’m currently learning DSA
+- 👀 I’m pursuing Computer Engineering.
 - 📫 vishwakarmaritesh253@gmail.com
 
 <!---
